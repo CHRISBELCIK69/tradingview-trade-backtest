@@ -1,0 +1,11 @@
+# Exported scripts and trade files carry your trade history
+*.pine
+!trade_replay.pine
+*.csv
+*.tsv
+!example_trades.csv
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store

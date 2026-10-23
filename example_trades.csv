@@ -1,0 +1,5 @@
+symbol,contract,opened_at,entry_price,exit_price,quantity,pnl_dollars,pnl_pct,duration_sec,open_order_id,close_order_id,status
+SPY261016C00665000,SPY 10/16/26 $665.00 Call,2026-10-16T14:02:11,1.42,1.88,2,92.0,32.39,2710,demo-1,demo-1c,filled
+SPY261016P00660000,SPY 10/16/26 $660.00 Put,2026-10-16T17:45:03,0.95,0.61,3,-102.0,-35.79,1420,demo-2,demo-2c,filled
+QQQ261020C00590000,QQQ 10/20/26 $590.00 Call,2026-10-19T13:41:40,2.10,2.65,1,55.0,26.19,4380,demo-3,demo-3c,filled
+SPXW261021P06600000,SPXW 10/21/26 $6600.00 Put,2026-10-21T15:10:22,6.80,5.10,1,-170.0,-25.0,960,demo-4,demo-4c,filled
